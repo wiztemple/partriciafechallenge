@@ -289,7 +289,7 @@ export default {
   justify-content: center;
   align-items: center;
   margin-top: 10px;
-  color: rgb(42, 88, 241);
+  color: #2a58f1;
   background-color: rgba(42, 88, 241, 0.253);
   font-weight: 500;
   border-radius: 50%;
